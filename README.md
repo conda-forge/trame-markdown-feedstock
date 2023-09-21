@@ -1,11 +1,11 @@
-About trame-markdown
-====================
+About trame-markdown-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-markdown-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/trame-markdown/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-markdown-feedstock/blob/main/LICENSE.txt)
 
 Summary: Markdown widget for trame
 
