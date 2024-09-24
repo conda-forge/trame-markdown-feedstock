@@ -1,5 +1,5 @@
 {% set name = "trame-markdown" %}
-{% set version = "3.0.1" %}
+{% set version = "3.0.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trame-markdown-{{ version }}.tar.gz
-  sha256: b93d06ba6fa508dcd6982aee2730b6f50b35e92dbbf7b44734eede32e9dfd340
+  sha256: 8de1b8c4a92a583f12601f28ddeb9b6ad0a7b3d8d43316285f86c64d6035640d
 
 build:
   number: 0
